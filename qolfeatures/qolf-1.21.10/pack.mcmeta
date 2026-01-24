@@ -1,6 +1,7 @@
 {
   "pack": {
-  "pack_format": 88,
-  "description": "Quality of Life Features"
+  "description": "Quality of Life Features",
+  "min_format": "88",
+  "max_format": "88"
   }
 }
